@@ -2,6 +2,7 @@ package Arrays;
 
 public class Basic {
 
+
 	public static void main(String[] args) {
 		
 		
@@ -10,6 +11,7 @@ public class Basic {
 
 
 		int b[]=new  int[10];
+System.out.println("hi");
 
 		System.out.println(a.length);
 		for(int i=0; i<a.length; i++)
