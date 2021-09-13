@@ -10,7 +10,7 @@ public class pp11 {
 			{
 				if(i-j<=0)
 				{
-					System.out.print("* ");
+					System.out.print("*");
 				}
 				else
 				{
